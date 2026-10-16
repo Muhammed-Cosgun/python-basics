@@ -1,0 +1,7 @@
+# Python geçici dosyaları
+__pycache__/
+*.pyc
+tempCodeRunnerFile.py
+
+# Veritabanı dosyaları (Büyük ve yerel veriler)
+*.db
